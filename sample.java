@@ -1,6 +1,7 @@
-public sample.java
+ public class Sample 
 {
 	public static void main(string args[])
-
-		system.out.println("karthik malyala");
+	{
+		System.out.println("karthik malyala");
+}
 }
